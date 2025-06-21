@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Reclothify_sales</string>
+    <string name="which_group_of_organisation_do_you_belong_to">WHich group of organisation do you belong to ?</string>
+    <string name="select">Select Items</string>
+</resources>
